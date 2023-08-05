@@ -1,1 +1,2 @@
-# The-Embedded-Gyrometer-The-Need-for-Speed-
+# The Embedded Gyrometer
+# The Need for Speed
